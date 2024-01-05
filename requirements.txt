@@ -1,7 +1,8 @@
-asgiref==3.2.10
+asgiref==3.7.2
 astroid==2.4.2
 colorama==0.4.6
-Django==3.0.8
+Django==3.2.10
+django-filter==23.5
 djangorestframework==3.11.0
 Faker==22.0.0
 isort==4.3.21
@@ -14,5 +15,6 @@ six==1.15.0
 sqlparse==0.3.1
 toml==0.10.1
 typed-ast==1.5.5
+tzdata==2023.4
 validate-docbr==1.10.0
 wrapt==1.12.1
